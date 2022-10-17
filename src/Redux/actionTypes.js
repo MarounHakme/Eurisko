@@ -1,0 +1,5 @@
+export const ISLOGGEDIN = 'ISLOGGEDIN';
+export const ACEESSTOKEN = 'ACEESSTOKEN';
+export const ARTICLES = 'ARTICLES';
+export const LOADMOREARTICLES = 'LOADMOREARTICLES';
+export const SEARCH = 'SEARCH';
